@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914982197985",
+    "firebase_url": "https://seedaot-6d346.firebaseio.com",
+    "project_id": "seedaot-6d346",
+    "storage_bucket": "seedaot-6d346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914982197985:android:eb560f0095dd8ded",
+        "android_client_info": {
+          "package_name": "com.seed.seedaot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914982197985-m9vaqlhneudlqav14p7ofh9u0dnl9b05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seed.seedaot",
+            "certificate_hash": "89e770a1b1065a7e3a34790c7bb0c9d51c8fbab1"
+          }
+        },
+        {
+          "client_id": "914982197985-kfeenn4jgi94oatfg4d6euq98rfk7scr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvVrFxNvHH1Iwy7HKIj4gfpbtagkNyz4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914982197985-kfeenn4jgi94oatfg4d6euq98rfk7scr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
